@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# how to set file assets:
+create folder for each type of assets in  main project folder.(like file,pictures,fonts)
+then set dependancies in puspec.yaml file 
+then call it in your location easy ,ok.
+
+# screen shot of page.
+![](images/Screenshot.jpg)
