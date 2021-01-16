@@ -13,3 +13,7 @@ language,picture etc. so how we will do .
 
 # note:
 this card is not taking input but if you really want make some login page then use "input text fields" .
+
+# screen shots
+
+![]
