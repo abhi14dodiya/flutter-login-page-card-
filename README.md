@@ -21,4 +21,5 @@ then set dependancies in puspec.yaml file
 then call it in your location easy ,ok.
 
 # screen shot of page.
-![](images/Screenshot.jpg)
+
+<img src="images/Screenshot.jpg" height="500" weidth="200">
